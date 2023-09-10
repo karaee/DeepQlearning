@@ -1,4 +1,4 @@
-# Deep Q-Learning and Deep Convolutional Q-Learning Algorithms Implemented on a Minigame
+# DQL and  DCQL Algorithms Implemented on a Minigame
 
 Reinforcement learning project with Deep-Q Learning and Deep Conolutional Q Learning  algorithms.
 
